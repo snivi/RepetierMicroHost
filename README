@@ -1,0 +1,8 @@
+This is a DISPLAY for 3d printer using repentier firmware, 
+based on a arduino mega2560 and a 320x240 display.
+
+It connect to the controleur of the reprap printer using rx1/tx1/gnd pin.
+
+The arduino library i use are inclued in "libraries" directory. 
+
+the source of the host programme is in "MicroDisplay" directory.
